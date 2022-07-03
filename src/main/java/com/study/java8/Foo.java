@@ -1,7 +1,7 @@
 package com.study.java8;
 
 @FunctionalInterface
-public interface Foo {
+public interface  Foo {
 
     // abstract는 생략가능
     // 다른형태의 메서드가 있더라도 추상화 메서드가 1개있으면 functional 인터페이스에 해당한다
